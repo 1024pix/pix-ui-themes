@@ -1,8 +1,12 @@
 {
-  "name": "@1024pix/pix-ui-webcomponents",
+  "name": "@1024pix/pix-ui-themes",
   "private": false,
-  "version": "0.0.0",
+  "version": "1.0.0-beta",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/1024pix/pix-ui-themes.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
