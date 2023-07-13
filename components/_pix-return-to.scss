@@ -70,7 +70,7 @@
 
   &--white {
     @include coloriseLink(
-      var(--pix-neutral-10),
+      var(--pix-color-neutral-10),
       var(--pix-color-neutral-0),
       var(--pix-color-neutral-0)
     );
