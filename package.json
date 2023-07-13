@@ -1,7 +1,7 @@
 {
   "name": "@1024pix/pix-ui-themes",
   "private": false,
-  "version": "1.0.0-beta",
+  "version": "1.0.1-beta",
   "type": "module",
   "repository": {
     "type": "git",
