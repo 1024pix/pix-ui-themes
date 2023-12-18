@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@1024pix/eslint-config": "^1.0.0",
-    "@etchteam/storybook-addon-css-variables-theme": "^1.5.1",
+    "@etchteam/storybook-addon-css-variables-theme": "^2.0.0",
     "@storybook/addon-essentials": "^7.0.24",
     "@storybook/addon-interactions": "^7.0.24",
     "@storybook/addon-links": "^7.0.24",
